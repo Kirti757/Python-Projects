@@ -31,9 +31,9 @@ Users can switch between the Sign-up and Sign-in pages.
            python signin.py
            
 ### Output:
-Signup
+Signup:
 
-: ![img alt](https://github.com/Kirti757/Python-Projects/blob/main/Outputimages/Signuppage.png?raw=true)
+![img alt](https://github.com/Kirti757/Python-Projects/blob/main/Outputimages/Signuppage.png?raw=true)
 
 Signin:
 
