@@ -7,8 +7,13 @@ Supports basic arithmetic operations: addition, subtraction, multiplication, and
 Allows users to enter expressions and get results instantly.
 Includes a Clear (C) button to reset input.
 
-### Run the Calculator:
-python calculator.py
+### Setup & Execution
+##### 1. Clone the repository
+        git clone https://github.com/Kirti757/Python-Projects
+        cd Python-Projects/Calculator
+
+##### 2. Run the Calculator:
+        python calculator.py
 
 
 ### Output:
