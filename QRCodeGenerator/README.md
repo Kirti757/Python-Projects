@@ -11,7 +11,7 @@ A simple GUI interface with an input box, buttons, and QR code preview.
 pip install pillow qrcode[pil]
 
 ##### Run the To-Do List Application:
-python todo_list.py
+python QRcode.py
 
 ### Output Screenshot:
 
