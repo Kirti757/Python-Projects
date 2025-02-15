@@ -9,14 +9,14 @@ A simple GUI interface with an input box, buttons, and QR code preview.
 
 ### Setup & Execution
 ##### 1. Clone the repository
-git clone https://github.com/Kirti757/Python-Projects
-cd Python-Projects/QRCodeGenerator
+        git clone https://github.com/Kirti757/Python-Projects
+        cd Python-Projects/QRCodeGenerator
 
-##### Install dependencies using pip:
-pip install pillow qrcode[pil]
+##### 2. Install dependencies using pip:
+         pip install pillow qrcode[pil]
 
-##### Run the QRcode Application:
-        python QRcode.py
+##### 3. Run the QRcode Application:
+         python QRcode.py
 
 ### Output:
 
