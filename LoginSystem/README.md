@@ -29,3 +29,8 @@ pip install pillow
            python signup.py
  ###### To open the Sign-in page:
            python signin.py
+           
+### Output:
+Signup : ![img alt](https://github.com/Kirti757/Python-Projects/blob/main/Outputimages/Signuppage.png?raw=true)
+
+Signin:  ![img alt](https://github.com/Kirti757/Python-Projects/blob/main/Outputimages/Signinpage.png?raw=true)
