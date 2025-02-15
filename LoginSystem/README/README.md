@@ -19,8 +19,8 @@ Built using Tkinter with a clean and simple design.
 
 ### Setup & Execution
 ##### 1. Clone the repository:
-git clone https://github.com/Kirti757/Mini-Projects.git
-cd Mini-Projects/LoginSystem
+https://github.com/Kirti757/Python-Projects
+cd Python-Projects/LoginSystem
 ##### 2. Install required dependencies:
 pip install pillow
 ##### 3. Run the application:
