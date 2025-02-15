@@ -10,9 +10,9 @@ A simple GUI interface with an input box, buttons, and QR code preview.
 ##### Install dependencies using pip:
 pip install pillow qrcode[pil]
 
-##### Run the To-Do List Application:
+##### Run the QRcode Application:
 python QRcode.py
 
-### Output Screenshot:
+### Output:
 
 ![img alt](https://github.com/Kirti757/Python-Projects/blob/main/Outputimages/QRcode.png?raw=true)
