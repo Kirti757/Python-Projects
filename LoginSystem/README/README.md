@@ -3,19 +3,19 @@
 ### Technologies Used: Python, Tkinter (GUI Library), SQLite (Database Management), PIL (for Image Processing)
 This is a simple Login System built using Python, Tkinter, and SQLite for user authentication. The system includes a Sign-up and Sign-in page, ensuring secure registration and login functionality with basic password validation.
 
-### Features
+### Features:
 
-##### User Registration:
+###### User Registration:
 Users can sign up by creating a unique username and a secure password.
-##### Password Validation:
+###### Password Validation:
 Passwords must be between 6-10 characters and contain at least one special character ($@#%).
-##### Login Authentication:
+###### Login Authentication:
 Users can log in with their registered credentials.
-##### Database Integration:
+###### Database Integration:
 User details are stored securely in an SQLite database.
-##### Graphical User Interface (GUI):
+###### Graphical User Interface (GUI):
 Built using Tkinter with a clean and simple design.
-##### Navigation:### Technologies Used: Python, Tkinter (GUI Library), SQLite (Database Management), PIL (for Image Processing)
+###### Navigation:Users can switch between the Sign-up and Sign-in pages.
 
 ### Setup & Execution
 ##### 1. Clone the repository:
