@@ -9,14 +9,10 @@ A simple GUI interface with an input box, buttons, and QR code preview.
 
 ### Installation & Setup
 
-###### Install dependencies using pip:
+##### Install dependencies using pip:
 pip install pillow qrcode[pil]
 
-###### How to Clone & Run the Projects?
-Clone this repository using Git:
-git clone 
-
-###### Run the To-Do List Application:
+##### Run the To-Do List Application:
 python todo_list.py
 
 ### Output Screenshot:
