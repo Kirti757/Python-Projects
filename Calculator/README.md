@@ -10,3 +10,4 @@ Includes a Clear (C) button to reset input.
 Run the Calculator:
 python calculator.py
 
+![image alt](https://github.com/Kirti757/Python-Projects/blob/main/Outputimages/Calculator.png?raw=true)
