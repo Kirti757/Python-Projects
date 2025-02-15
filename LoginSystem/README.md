@@ -20,10 +20,10 @@ Users can switch between the Sign-up and Sign-in pages.
 
 ### Setup & Execution
 ##### 1. Clone the repository:
-https://github.com/Kirti757/Python-Projects
-cd Python-Projects/LoginSystem
+        https://github.com/Kirti757/Python-Projects
+        cd Python-Projects/LoginSystem
 ##### 2. Install required dependencies:
-pip install pillow
+        pip install pillow
 ##### 3. Run the application:
  ###### To open the Sign-up page:
            python signup.py
@@ -32,7 +32,9 @@ pip install pillow
            
 ### Output:
 Signup
+
 : ![img alt](https://github.com/Kirti757/Python-Projects/blob/main/Outputimages/Signuppage.png?raw=true)
 
 Signin:
+
 ![img alt](https://github.com/Kirti757/Python-Projects/blob/main/Outputimages/Signinpage.png?raw=true)
