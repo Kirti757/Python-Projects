@@ -1,10 +1,10 @@
+# Signup Page
 import tkinter as tk
 from PIL import Image, ImageTk
 from tkinter import messagebox
 import subprocess
 import os
 import sqlite3
-
 
 users = {}  # Dictionary to store username-password in pairs
 
