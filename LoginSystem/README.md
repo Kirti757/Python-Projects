@@ -15,7 +15,8 @@ Users can log in with their registered credentials.
 User details are stored securely in an SQLite database.
 ###### Graphical User Interface (GUI):
 Built using Tkinter with a clean and simple design.
-###### Navigation:Users can switch between the Sign-up and Sign-in pages.
+###### Navigation:
+Users can switch between the Sign-up and Sign-in pages.
 
 ### Setup & Execution
 ##### 1. Clone the repository:
