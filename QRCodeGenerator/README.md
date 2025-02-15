@@ -7,11 +7,16 @@ Generates a QR Code from a given URL.
 Users can convert a URL to a QR Code and download it as a PNG file.
 A simple GUI interface with an input box, buttons, and QR code preview.
 
+### Setup & Execution
+##### 1. Clone the repository
+git clone https://github.com/Kirti757/Python-Projects
+cd Python-Projects/QRCodeGenerator
+
 ##### Install dependencies using pip:
 pip install pillow qrcode[pil]
 
 ##### Run the QRcode Application:
-python QRcode.py
+        python QRcode.py
 
 ### Output:
 
