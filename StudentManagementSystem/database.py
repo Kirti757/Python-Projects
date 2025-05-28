@@ -8,7 +8,7 @@ def connect_db():
          
         host="localhost",
         user="root",
-        password="mysql@12",
+        password="data@db",
         database="studentmanagementdb"
     )
 
