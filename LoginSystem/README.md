@@ -25,16 +25,14 @@ Users can switch between the Sign-up and Sign-in pages.
 ##### 2. Install required dependencies:
         pip install pillow
 ##### 3. Run the application:
- ###### To open the Sign-up page:
-           python signup.py
- ###### To open the Sign-in page:
-           python signin.py
+        python loginsystem.py
+
            
 ### Output:
 Signup:
 
-![img alt](https://github.com/Kirti757/Python-Projects/blob/main/Outputimages/Signuppage.png?raw=true)
+![img alt](https://github.com/Kirti757/Python-Projects/blob/main/Outputimages/newSignup.png)
 
 Signin:
 
-![img alt](https://github.com/Kirti757/Python-Projects/blob/main/Outputimages/Signinpage.png?raw=true)
+![img alt](https://github.com/Kirti757/Python-Projects/blob/main/Outputimages/newSignin.png)
