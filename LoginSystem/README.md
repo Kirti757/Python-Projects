@@ -20,8 +20,8 @@ Users can switch between the Sign-up and Sign-in pages.
 
 ### Setup & Execution
 ##### 1. Clone the repository:
-        https://github.com/Kirti757/Python-Projects
-        cd Python-Projects/LoginSystem
+        git clone https://github.com/Kirti757/Python-Projects
+        cd LoginSystem
 ##### 2. Install required dependencies:
         pip install pillow
 ##### 3. Run the application:
