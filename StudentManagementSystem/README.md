@@ -65,4 +65,4 @@ Update your database.py file with your MySQL credentials:
       python student_management.py
 ### Output:
 
-     ![img alt](https://github.com/Kirti757/Python-Projects/blob/main/Outputimages/studentmanagementsystem.png)
+     ![img alt](https://github.com/Kirti757/Python-Projects/blob/main/Outputimages/studentmanagementsystem.png) .
