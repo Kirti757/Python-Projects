@@ -63,3 +63,6 @@ Update your database.py file with your MySQL credentials:
 ### Run the Application
 
       python student_management.py
+### Output:
+
+     ![img alt](https://github.com/Kirti757/Python-Projects/blob/main/Outputimages/studentmanagementsystem.png)
