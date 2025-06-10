@@ -4,12 +4,7 @@ This is a Student Management System built using Python, Tkinter, and MySQL. The 
 ## Features
 ### Student Registration:
 Users can add new student records including details like:
-Admission Number
-Full Name
-Class
-Email ID
-Phone Number
-Gender
+Admission Number, Full Name, Class, Email ID, Phone Number, Gender
 
 ### Update Student Records:
 Modify existing student data using admission number as a reference.
@@ -22,11 +17,7 @@ Easily update a student’s admission number using the “Change Admission No”
 
 ### Search Functionality:
 Search students based on various filters:
-Admission Number
-Full Name
-Class
-Email ID
-Phone Number
+Admission Number, Full Name, Class, Email ID, Phone Number
 
 ### Download to CSV:
 Export all student records from the database to a CSV file for offline access or reporting.
